@@ -1,4 +1,4 @@
-# Designing a JavaScript constructor function for a Word Game
+# Designing a JavaScript constructor function of a Word Game
 
 ### Objectives:
 
